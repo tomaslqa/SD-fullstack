@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Testing\\SDApp\\api\\SDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|c:\\testing\\sdapp\\api\\sdapp\\sdapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|solutionrelative:sdapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|c:\\testing\\sdapp\\api\\sdapp\\sdapp\\controllers\\sdappcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|solutionrelative:sdapp\\controllers\\sdappcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|c:\\testing\\sdapp\\api\\sdapp\\sdapp\\sdapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|solutionrelative:sdapp\\sdapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|c:\\testing\\sdapp\\api\\sdapp\\sdapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|solutionrelative:sdapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|c:\\testing\\sdapp\\api\\sdapp\\sdapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC64E17B-76EE-4F64-B497-051630ED2737}|SDApp\\SDApp.csproj|solutionrelative:sdapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SDApp\\appsettings.json",
+              "ToolTip": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\appsettings.json",
+              "RelativeToolTip": "SDApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T17:01:38.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SDApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\appsettings.Development.json",
+              "RelativeToolTip": "SDApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T17:01:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SDApp.http",
+              "DocumentMoniker": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\SDApp.http",
+              "RelativeDocumentMoniker": "SDApp\\SDApp.http",
+              "ToolTip": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\SDApp.http",
+              "RelativeToolTip": "SDApp\\SDApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-03T17:01:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SDAppControler.cs",
+              "DocumentMoniker": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\Controllers\\SDAppControler.cs",
+              "RelativeDocumentMoniker": "SDApp\\Controllers\\SDAppControler.cs",
+              "ToolTip": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\Controllers\\SDAppControler.cs",
+              "RelativeToolTip": "SDApp\\Controllers\\SDAppControler.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv1MAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:58:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\Program.cs",
+              "RelativeDocumentMoniker": "SDApp\\Program.cs",
+              "ToolTip": "C:\\Testing\\SDApp\\api\\SDApp\\SDApp\\Program.cs",
+              "RelativeToolTip": "SDApp\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:01:10.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

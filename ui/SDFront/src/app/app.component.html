@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./app.component.css">
+  <title>SDApp</title>
+</head>
+
+<body>
+  <div>
+    <h2>Medicine list:</h2>
+    <table id="drugs">
+      <tr>
+        <th>Id</th>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Image</th>
+        <th>Dosing</th>
+      </tr>
+      <tr *ngFor="let medicine of medicine">
+        <td>{{medicine.id}}</td>
+        <td>{{medicine.code}}</td>
+        <td>{{medicine.drug_name}}</td>
+        <td>{{medicine.drug_descr}}</td>
+        <td>{{medicine.drug_img}}</td>
+        <td>{{medicine.dosing}}</td>
+      </tr>
+    </table>
+    <button (click)="onRefresh()">Refresh</button>
+  </div>
+  <div class="container">
+    <div class="medicine-form">
+      <h2>New Medicine Form:</h2>
+      <form id="Add">
+        <label>
+          Code:
+        </label>
+        <input type="text" id="code" name="code" ngModel maxlength="15" size="8" />
+        <label>
+          Medicine name:
+        </label>
+        <input type="text" id="name" name="name" ngModel maxlength="15" size="10" />
+        <label>
+          Description:
+        </label>
+        <input type="text" id="description" name="description" ngModel maxlength="50" size="10" />
+        <label>
+          Image:
+        </label>
+        <input type="text" id="image" name="image" ngModel maxlength="15" size="10" />
+        <label>
+          Dosing:
+        </label>
+        <input type="text" id="dosing" name="dosing" maxlength="15" size="10" />
+      </form>
+      <button (click)="onSubmit()">Submit</button>
+    </div>
+    <div class="delete-form">
+      <h2>Delete Medicine:</h2>
+      <form id="Delete">
+        <label>
+          Enter id:
+        </label>
+        <input type="text" id="delete" name="delete" maxlength="15" size="10" />
+      </form>
+      <button (click)="onDelete()">Delete</button>
+    </div>
+  </div>
+</body>
+</html>
