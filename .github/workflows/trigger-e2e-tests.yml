@@ -1,0 +1,14 @@
+name: Trigger E2E Tests
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger PW_UP_test smoke run
+        run: gh workflow run playwright.yml --repo tomaslqa/PW_UP_test --ref main
+        env:
+          GH_TOKEN: ${{ secrets.PW_UP_DISPATCH_TOKEN }}
